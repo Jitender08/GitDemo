@@ -1,0 +1,7 @@
+ 2022-07-24 12:11:15,594: WARNING: pytestdemo.test_logging : something is in warning mode
+ 2022-07-24 12:11:15,595: ERROR: pytestdemo.test_logging : error message
+ 2022-07-24 12:11:15,595: CRITICAL: pytestdemo.test_logging : critical issue
+ 2022-07-24 13:01:24,040: INFO: test_editprofile : Jitender
+ 2022-07-24 13:01:24,041: INFO: test_editprofile : rahulshettyacademy.com
+ 2022-07-24 13:07:35,470: CRITICAL: test_editprofile : Jitender
+ 2022-07-24 13:07:35,470: INFO: test_editprofile : rahulshettyacademy.com
